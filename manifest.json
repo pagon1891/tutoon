@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "version": "20261120-04",
+  "version": "20261120-05",
   "app": "tutoon",
   "author": "mspapps",
   "authorCredit": "글·그림 mspapps",
-  "updated": "2026-11-20T20:58:40+09:00",
+  "updated": "2026-11-20T21:31:31+09:00",
   "workId": "kyungseong",
   "title": {
     "ko": "밤이 기울면",
@@ -19,7 +19,7 @@
     "ko"
   ],
   "pathTemplate": "{season}/{volume}/{lang}/p{page:03d}.jpg",
-  "notes": "1권 칸 터치 효과 유지. 2권 통과본 조립과 칸 터치 효과(2권 레이아웃 좌표, CPU 모션, TTS 의성어). 1·2권 유행어 레터링 교체.",
+  "notes": "1권 칸 터치 효과 유지. 2권 통과본 조립과 칸 터치 효과(2권 레이아웃 좌표, CPU 모션, TTS 의성어). 1·2권 유행어 레터링 교체. 1·2권 지정 쪽 원 개그 복구 및 1권 7쪽 en WIND 겹침 수정.",
   "seasons": [
     {
       "id": "s1",
