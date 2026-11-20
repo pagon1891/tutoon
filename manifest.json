@@ -1,8 +1,10 @@
 {
   "schema": 2,
-  "version": "20261120-02",
+  "version": "20261120-03",
   "app": "tutoon",
-  "updated": "2026-11-20T17:44:37+09:00",
+  "author": "mspapps",
+  "authorCredit": "글·그림 mspapps",
+  "updated": "2026-11-20T17:51:30+09:00",
   "workId": "kyungseong",
   "title": {
     "ko": "밤이 기울면",
