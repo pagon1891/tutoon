@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "version": "20261121-01",
+  "version": "20261121-02",
   "app": "tutoon",
   "author": "mspapps",
   "authorCredit": "글·그림 mspapps",
-  "updated": "2026-11-21T20:51:00+09:00",
+  "updated": "2026-11-21T22:10:57+09:00",
   "workId": "kyungseong",
   "title": {
     "ko": "밤이 기울면",
@@ -19,7 +19,7 @@
     "ko"
   ],
   "pathTemplate": "{season}/{volume}/{lang}/p{page:03d}.jpg",
-  "notes": "1권 칸 터치 효과 유지. 2권 통과본 조립과 칸 터치 효과(2권 레이아웃 좌표, CPU 모션, TTS 의성어). 1·2권 유행어 레터링 교체. 1·2권 지정 쪽 원 개그 복구 및 1권 7쪽 en WIND 겹침 수정. 3권 한글판 추가(ko 100쪽, en 미포함).",
+  "notes": "1권 칸 터치 효과 유지. 2권 통과본 조립과 칸 터치 효과(2권 레이아웃 좌표, CPU 모션, TTS 의성어). 1·2권 유행어 레터링 교체. 1·2권 지정 쪽 원 개그 복구 및 1권 7쪽 en WIND 겹침 수정. 3권 한글판 추가(ko 100쪽). 3권 유행어 레터링 ko/en 100쪽 반영, 3권 영어판 추가.",
   "seasons": [
     {
       "id": "s1",
@@ -14611,7 +14611,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p001.jpg"
+                "ko": "s1/v3/ko/p001.jpg",
+                "en": "s1/v3/en/p001.jpg"
               }
             },
             {
@@ -14621,7 +14622,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p002.jpg"
+                "ko": "s1/v3/ko/p002.jpg",
+                "en": "s1/v3/en/p002.jpg"
               }
             },
             {
@@ -14631,7 +14633,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p003.jpg"
+                "ko": "s1/v3/ko/p003.jpg",
+                "en": "s1/v3/en/p003.jpg"
               }
             },
             {
@@ -14641,7 +14644,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p004.jpg"
+                "ko": "s1/v3/ko/p004.jpg",
+                "en": "s1/v3/en/p004.jpg"
               }
             },
             {
@@ -14651,7 +14655,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p005.jpg"
+                "ko": "s1/v3/ko/p005.jpg",
+                "en": "s1/v3/en/p005.jpg"
               }
             },
             {
@@ -14661,7 +14666,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p006.jpg"
+                "ko": "s1/v3/ko/p006.jpg",
+                "en": "s1/v3/en/p006.jpg"
               }
             },
             {
@@ -14671,7 +14677,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p007.jpg"
+                "ko": "s1/v3/ko/p007.jpg",
+                "en": "s1/v3/en/p007.jpg"
               }
             },
             {
@@ -14681,7 +14688,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p008.jpg"
+                "ko": "s1/v3/ko/p008.jpg",
+                "en": "s1/v3/en/p008.jpg"
               }
             },
             {
@@ -14691,7 +14699,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p009.jpg"
+                "ko": "s1/v3/ko/p009.jpg",
+                "en": "s1/v3/en/p009.jpg"
               }
             },
             {
@@ -14701,7 +14710,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p010.jpg"
+                "ko": "s1/v3/ko/p010.jpg",
+                "en": "s1/v3/en/p010.jpg"
               }
             },
             {
@@ -14711,7 +14721,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p011.jpg"
+                "ko": "s1/v3/ko/p011.jpg",
+                "en": "s1/v3/en/p011.jpg"
               }
             },
             {
@@ -14721,7 +14732,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p012.jpg"
+                "ko": "s1/v3/ko/p012.jpg",
+                "en": "s1/v3/en/p012.jpg"
               }
             },
             {
@@ -14731,7 +14743,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p013.jpg"
+                "ko": "s1/v3/ko/p013.jpg",
+                "en": "s1/v3/en/p013.jpg"
               }
             },
             {
@@ -14741,7 +14754,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p014.jpg"
+                "ko": "s1/v3/ko/p014.jpg",
+                "en": "s1/v3/en/p014.jpg"
               }
             },
             {
@@ -14751,7 +14765,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p015.jpg"
+                "ko": "s1/v3/ko/p015.jpg",
+                "en": "s1/v3/en/p015.jpg"
               }
             },
             {
@@ -14761,7 +14776,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p016.jpg"
+                "ko": "s1/v3/ko/p016.jpg",
+                "en": "s1/v3/en/p016.jpg"
               }
             },
             {
@@ -14771,7 +14787,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p017.jpg"
+                "ko": "s1/v3/ko/p017.jpg",
+                "en": "s1/v3/en/p017.jpg"
               }
             },
             {
@@ -14781,7 +14798,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p018.jpg"
+                "ko": "s1/v3/ko/p018.jpg",
+                "en": "s1/v3/en/p018.jpg"
               }
             },
             {
@@ -14791,7 +14809,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p019.jpg"
+                "ko": "s1/v3/ko/p019.jpg",
+                "en": "s1/v3/en/p019.jpg"
               }
             },
             {
@@ -14801,7 +14820,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p020.jpg"
+                "ko": "s1/v3/ko/p020.jpg",
+                "en": "s1/v3/en/p020.jpg"
               }
             },
             {
@@ -14811,7 +14831,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p021.jpg"
+                "ko": "s1/v3/ko/p021.jpg",
+                "en": "s1/v3/en/p021.jpg"
               }
             },
             {
@@ -14821,7 +14842,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p022.jpg"
+                "ko": "s1/v3/ko/p022.jpg",
+                "en": "s1/v3/en/p022.jpg"
               }
             },
             {
@@ -14831,7 +14853,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p023.jpg"
+                "ko": "s1/v3/ko/p023.jpg",
+                "en": "s1/v3/en/p023.jpg"
               }
             },
             {
@@ -14841,7 +14864,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p024.jpg"
+                "ko": "s1/v3/ko/p024.jpg",
+                "en": "s1/v3/en/p024.jpg"
               }
             },
             {
@@ -14851,7 +14875,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p025.jpg"
+                "ko": "s1/v3/ko/p025.jpg",
+                "en": "s1/v3/en/p025.jpg"
               }
             },
             {
@@ -14861,7 +14886,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p026.jpg"
+                "ko": "s1/v3/ko/p026.jpg",
+                "en": "s1/v3/en/p026.jpg"
               }
             },
             {
@@ -14871,7 +14897,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p027.jpg"
+                "ko": "s1/v3/ko/p027.jpg",
+                "en": "s1/v3/en/p027.jpg"
               }
             },
             {
@@ -14881,7 +14908,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p028.jpg"
+                "ko": "s1/v3/ko/p028.jpg",
+                "en": "s1/v3/en/p028.jpg"
               }
             },
             {
@@ -14891,7 +14919,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p029.jpg"
+                "ko": "s1/v3/ko/p029.jpg",
+                "en": "s1/v3/en/p029.jpg"
               }
             },
             {
@@ -14901,7 +14930,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p030.jpg"
+                "ko": "s1/v3/ko/p030.jpg",
+                "en": "s1/v3/en/p030.jpg"
               }
             },
             {
@@ -14911,7 +14941,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p031.jpg"
+                "ko": "s1/v3/ko/p031.jpg",
+                "en": "s1/v3/en/p031.jpg"
               }
             },
             {
@@ -14921,7 +14952,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p032.jpg"
+                "ko": "s1/v3/ko/p032.jpg",
+                "en": "s1/v3/en/p032.jpg"
               }
             },
             {
@@ -14931,7 +14963,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p033.jpg"
+                "ko": "s1/v3/ko/p033.jpg",
+                "en": "s1/v3/en/p033.jpg"
               }
             },
             {
@@ -14941,7 +14974,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p034.jpg"
+                "ko": "s1/v3/ko/p034.jpg",
+                "en": "s1/v3/en/p034.jpg"
               }
             },
             {
@@ -14951,7 +14985,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p035.jpg"
+                "ko": "s1/v3/ko/p035.jpg",
+                "en": "s1/v3/en/p035.jpg"
               }
             },
             {
@@ -14961,7 +14996,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p036.jpg"
+                "ko": "s1/v3/ko/p036.jpg",
+                "en": "s1/v3/en/p036.jpg"
               }
             },
             {
@@ -14971,7 +15007,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p037.jpg"
+                "ko": "s1/v3/ko/p037.jpg",
+                "en": "s1/v3/en/p037.jpg"
               }
             },
             {
@@ -14981,7 +15018,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p038.jpg"
+                "ko": "s1/v3/ko/p038.jpg",
+                "en": "s1/v3/en/p038.jpg"
               }
             },
             {
@@ -14991,7 +15029,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p039.jpg"
+                "ko": "s1/v3/ko/p039.jpg",
+                "en": "s1/v3/en/p039.jpg"
               }
             },
             {
@@ -15001,7 +15040,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p040.jpg"
+                "ko": "s1/v3/ko/p040.jpg",
+                "en": "s1/v3/en/p040.jpg"
               }
             },
             {
@@ -15011,7 +15051,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p041.jpg"
+                "ko": "s1/v3/ko/p041.jpg",
+                "en": "s1/v3/en/p041.jpg"
               }
             },
             {
@@ -15021,7 +15062,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p042.jpg"
+                "ko": "s1/v3/ko/p042.jpg",
+                "en": "s1/v3/en/p042.jpg"
               }
             },
             {
@@ -15031,7 +15073,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p043.jpg"
+                "ko": "s1/v3/ko/p043.jpg",
+                "en": "s1/v3/en/p043.jpg"
               }
             },
             {
@@ -15041,7 +15084,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p044.jpg"
+                "ko": "s1/v3/ko/p044.jpg",
+                "en": "s1/v3/en/p044.jpg"
               }
             },
             {
@@ -15051,7 +15095,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p045.jpg"
+                "ko": "s1/v3/ko/p045.jpg",
+                "en": "s1/v3/en/p045.jpg"
               }
             },
             {
@@ -15061,7 +15106,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p046.jpg"
+                "ko": "s1/v3/ko/p046.jpg",
+                "en": "s1/v3/en/p046.jpg"
               }
             },
             {
@@ -15071,7 +15117,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p047.jpg"
+                "ko": "s1/v3/ko/p047.jpg",
+                "en": "s1/v3/en/p047.jpg"
               }
             },
             {
@@ -15081,7 +15128,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p048.jpg"
+                "ko": "s1/v3/ko/p048.jpg",
+                "en": "s1/v3/en/p048.jpg"
               }
             },
             {
@@ -15091,7 +15139,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p049.jpg"
+                "ko": "s1/v3/ko/p049.jpg",
+                "en": "s1/v3/en/p049.jpg"
               }
             },
             {
@@ -15101,7 +15150,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p050.jpg"
+                "ko": "s1/v3/ko/p050.jpg",
+                "en": "s1/v3/en/p050.jpg"
               }
             },
             {
@@ -15111,7 +15161,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p051.jpg"
+                "ko": "s1/v3/ko/p051.jpg",
+                "en": "s1/v3/en/p051.jpg"
               }
             },
             {
@@ -15121,7 +15172,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p052.jpg"
+                "ko": "s1/v3/ko/p052.jpg",
+                "en": "s1/v3/en/p052.jpg"
               }
             },
             {
@@ -15131,7 +15183,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p053.jpg"
+                "ko": "s1/v3/ko/p053.jpg",
+                "en": "s1/v3/en/p053.jpg"
               }
             },
             {
@@ -15141,7 +15194,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p054.jpg"
+                "ko": "s1/v3/ko/p054.jpg",
+                "en": "s1/v3/en/p054.jpg"
               }
             },
             {
@@ -15151,7 +15205,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p055.jpg"
+                "ko": "s1/v3/ko/p055.jpg",
+                "en": "s1/v3/en/p055.jpg"
               }
             },
             {
@@ -15161,7 +15216,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p056.jpg"
+                "ko": "s1/v3/ko/p056.jpg",
+                "en": "s1/v3/en/p056.jpg"
               }
             },
             {
@@ -15171,7 +15227,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p057.jpg"
+                "ko": "s1/v3/ko/p057.jpg",
+                "en": "s1/v3/en/p057.jpg"
               }
             },
             {
@@ -15181,7 +15238,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p058.jpg"
+                "ko": "s1/v3/ko/p058.jpg",
+                "en": "s1/v3/en/p058.jpg"
               }
             },
             {
@@ -15191,7 +15249,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p059.jpg"
+                "ko": "s1/v3/ko/p059.jpg",
+                "en": "s1/v3/en/p059.jpg"
               }
             },
             {
@@ -15201,7 +15260,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p060.jpg"
+                "ko": "s1/v3/ko/p060.jpg",
+                "en": "s1/v3/en/p060.jpg"
               }
             },
             {
@@ -15211,7 +15271,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p061.jpg"
+                "ko": "s1/v3/ko/p061.jpg",
+                "en": "s1/v3/en/p061.jpg"
               }
             },
             {
@@ -15221,7 +15282,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p062.jpg"
+                "ko": "s1/v3/ko/p062.jpg",
+                "en": "s1/v3/en/p062.jpg"
               }
             },
             {
@@ -15231,7 +15293,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p063.jpg"
+                "ko": "s1/v3/ko/p063.jpg",
+                "en": "s1/v3/en/p063.jpg"
               }
             },
             {
@@ -15241,7 +15304,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p064.jpg"
+                "ko": "s1/v3/ko/p064.jpg",
+                "en": "s1/v3/en/p064.jpg"
               }
             },
             {
@@ -15251,7 +15315,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p065.jpg"
+                "ko": "s1/v3/ko/p065.jpg",
+                "en": "s1/v3/en/p065.jpg"
               }
             },
             {
@@ -15261,7 +15326,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p066.jpg"
+                "ko": "s1/v3/ko/p066.jpg",
+                "en": "s1/v3/en/p066.jpg"
               }
             },
             {
@@ -15271,7 +15337,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p067.jpg"
+                "ko": "s1/v3/ko/p067.jpg",
+                "en": "s1/v3/en/p067.jpg"
               }
             },
             {
@@ -15281,7 +15348,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p068.jpg"
+                "ko": "s1/v3/ko/p068.jpg",
+                "en": "s1/v3/en/p068.jpg"
               }
             },
             {
@@ -15291,7 +15359,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p069.jpg"
+                "ko": "s1/v3/ko/p069.jpg",
+                "en": "s1/v3/en/p069.jpg"
               }
             },
             {
@@ -15301,7 +15370,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p070.jpg"
+                "ko": "s1/v3/ko/p070.jpg",
+                "en": "s1/v3/en/p070.jpg"
               }
             },
             {
@@ -15311,7 +15381,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p071.jpg"
+                "ko": "s1/v3/ko/p071.jpg",
+                "en": "s1/v3/en/p071.jpg"
               }
             },
             {
@@ -15321,7 +15392,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p072.jpg"
+                "ko": "s1/v3/ko/p072.jpg",
+                "en": "s1/v3/en/p072.jpg"
               }
             },
             {
@@ -15331,7 +15403,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p073.jpg"
+                "ko": "s1/v3/ko/p073.jpg",
+                "en": "s1/v3/en/p073.jpg"
               }
             },
             {
@@ -15341,7 +15414,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p074.jpg"
+                "ko": "s1/v3/ko/p074.jpg",
+                "en": "s1/v3/en/p074.jpg"
               }
             },
             {
@@ -15351,7 +15425,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p075.jpg"
+                "ko": "s1/v3/ko/p075.jpg",
+                "en": "s1/v3/en/p075.jpg"
               }
             },
             {
@@ -15361,7 +15436,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p076.jpg"
+                "ko": "s1/v3/ko/p076.jpg",
+                "en": "s1/v3/en/p076.jpg"
               }
             },
             {
@@ -15371,7 +15447,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p077.jpg"
+                "ko": "s1/v3/ko/p077.jpg",
+                "en": "s1/v3/en/p077.jpg"
               }
             },
             {
@@ -15381,7 +15458,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p078.jpg"
+                "ko": "s1/v3/ko/p078.jpg",
+                "en": "s1/v3/en/p078.jpg"
               }
             },
             {
@@ -15391,7 +15469,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p079.jpg"
+                "ko": "s1/v3/ko/p079.jpg",
+                "en": "s1/v3/en/p079.jpg"
               }
             },
             {
@@ -15401,7 +15480,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p080.jpg"
+                "ko": "s1/v3/ko/p080.jpg",
+                "en": "s1/v3/en/p080.jpg"
               }
             },
             {
@@ -15411,7 +15491,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p081.jpg"
+                "ko": "s1/v3/ko/p081.jpg",
+                "en": "s1/v3/en/p081.jpg"
               }
             },
             {
@@ -15421,7 +15502,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p082.jpg"
+                "ko": "s1/v3/ko/p082.jpg",
+                "en": "s1/v3/en/p082.jpg"
               }
             },
             {
@@ -15431,7 +15513,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p083.jpg"
+                "ko": "s1/v3/ko/p083.jpg",
+                "en": "s1/v3/en/p083.jpg"
               }
             },
             {
@@ -15441,7 +15524,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p084.jpg"
+                "ko": "s1/v3/ko/p084.jpg",
+                "en": "s1/v3/en/p084.jpg"
               }
             },
             {
@@ -15451,7 +15535,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p085.jpg"
+                "ko": "s1/v3/ko/p085.jpg",
+                "en": "s1/v3/en/p085.jpg"
               }
             },
             {
@@ -15461,7 +15546,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p086.jpg"
+                "ko": "s1/v3/ko/p086.jpg",
+                "en": "s1/v3/en/p086.jpg"
               }
             },
             {
@@ -15471,7 +15557,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p087.jpg"
+                "ko": "s1/v3/ko/p087.jpg",
+                "en": "s1/v3/en/p087.jpg"
               }
             },
             {
@@ -15481,7 +15568,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p088.jpg"
+                "ko": "s1/v3/ko/p088.jpg",
+                "en": "s1/v3/en/p088.jpg"
               }
             },
             {
@@ -15491,7 +15579,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p089.jpg"
+                "ko": "s1/v3/ko/p089.jpg",
+                "en": "s1/v3/en/p089.jpg"
               }
             },
             {
@@ -15501,7 +15590,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p090.jpg"
+                "ko": "s1/v3/ko/p090.jpg",
+                "en": "s1/v3/en/p090.jpg"
               }
             },
             {
@@ -15511,7 +15601,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p091.jpg"
+                "ko": "s1/v3/ko/p091.jpg",
+                "en": "s1/v3/en/p091.jpg"
               }
             },
             {
@@ -15521,7 +15612,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p092.jpg"
+                "ko": "s1/v3/ko/p092.jpg",
+                "en": "s1/v3/en/p092.jpg"
               }
             },
             {
@@ -15531,7 +15623,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p093.jpg"
+                "ko": "s1/v3/ko/p093.jpg",
+                "en": "s1/v3/en/p093.jpg"
               }
             },
             {
@@ -15541,7 +15634,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p094.jpg"
+                "ko": "s1/v3/ko/p094.jpg",
+                "en": "s1/v3/en/p094.jpg"
               }
             },
             {
@@ -15551,7 +15645,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p095.jpg"
+                "ko": "s1/v3/ko/p095.jpg",
+                "en": "s1/v3/en/p095.jpg"
               }
             },
             {
@@ -15561,7 +15656,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p096.jpg"
+                "ko": "s1/v3/ko/p096.jpg",
+                "en": "s1/v3/en/p096.jpg"
               }
             },
             {
@@ -15571,7 +15667,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p097.jpg"
+                "ko": "s1/v3/ko/p097.jpg",
+                "en": "s1/v3/en/p097.jpg"
               }
             },
             {
@@ -15581,7 +15678,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p098.jpg"
+                "ko": "s1/v3/ko/p098.jpg",
+                "en": "s1/v3/en/p098.jpg"
               }
             },
             {
@@ -15591,7 +15689,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p099.jpg"
+                "ko": "s1/v3/ko/p099.jpg",
+                "en": "s1/v3/en/p099.jpg"
               }
             },
             {
@@ -15601,7 +15700,8 @@
               "height": 2400,
               "approved": true,
               "paths": {
-                "ko": "s1/v3/ko/p100.jpg"
+                "ko": "s1/v3/ko/p100.jpg",
+                "en": "s1/v3/en/p100.jpg"
               }
             }
           ]
